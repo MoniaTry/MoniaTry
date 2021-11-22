@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MoniaTry
+- 👀 I’m interested in learning programming as well as electronics.
+- 🌱 I’m currently learning Java and a bit of C and Assembly. I know some basics in C++.
+- 💞️ I’m looking to collaborate on anything really, as long as you don't mind having me :)
+- 📫 How to reach me: you can just PM me.
